@@ -1,18 +1,18 @@
 <h1 align="center">Reece's Git</h1>
 
 <p align="center">
-Backend Software Engineer • Open Source Contributor • Game Engine Developer
+Software Engineer • Open Source Contributor • Game Engine Lead Developer
 </p>
 
 ---
 
 ## About Me
 
-- 🇯🇵 Backend Software Engineer living in Japan
-- 💼 Working with **PHP** and **Concrete CMS**
-- 🌱 Currently studying **Japanese (JLPT N4)**
-- 🎮 Creator of **Kurumi Engine**, an open-source RPG engine written in C#
-- ❤️ Passionate about performance, software architecture and open source
+- Backend Software Engineer living in Japan
+- Working with **PHP** and **Concrete CMS**
+- Currently studying **Japanese (JLPT N4)**
+- Creator of **Kurumi Engine**, an open-source RPG engine written in C#
+- Passionate about performance, software architecture and open source
 
 ---
 
@@ -31,7 +31,7 @@ Backend Software Engineer • Open Source Contributor • Game Engine Developer
 
 ## Support My Work
 
-If you enjoy my open-source projects, consider supporting me.
+If you enjoy Kurumi Engine or my work, consider supporting me.
 
 <p align="center">
   <a href="https://ko-fi.com/reeceveiga">
