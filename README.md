@@ -10,7 +10,6 @@ Software Engineer • Open Source Contributor • Game Engine Lead Developer
 
 - Backend Software Engineer living in Japan
 - Working with **PHP** and **Concrete CMS**
-- Currently studying **Japanese (JLPT N4)**
 - Creator of **Kurumi Engine**, an RPG engine written in C#
 - Passionate about performance, software architecture and open source
 
